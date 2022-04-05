@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# List of Pizza toppings:
+- Tomato sauce
+- Mozzarella
+- Ham
+- Salami
+- Mushrooms
+- Onions
+- Bell pepper
